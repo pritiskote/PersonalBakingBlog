@@ -1,0 +1,26 @@
+
+.c-1{
+    display: table; 
+    margin: 0px auto 0px auto; 
+    padding:5px;background-color:lightgrey;
+   
+    
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    justify-content: left;
+    align-items: left;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    justify-content: left;
+    align-items: left;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+}
+
